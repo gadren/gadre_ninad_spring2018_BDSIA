@@ -1,3 +1,4 @@
-The text in the document by Ninad Gadre is licensed under CC BY 3.0 https://creativecommons.org/licenses/by/3.0/us/
-
 The code in the document by Ninad Gadre is licensed under the MIT License https://opensource.org/licenses/MIT
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
